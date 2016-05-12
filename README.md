@@ -209,6 +209,7 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [A-Brush](http://www.anj.fyi/sculpt/) - Doodle in 3D space with WASD and Cardboard cursor
 - [HelloWorldVR](http://georational.github.io/helloWorldVR.html) - Stonehenge after dark
 - [May the 4th Be With You](http://rudyjahchan.com/may4th/) - Star Wars
+- [Sculpture 360° Tour](http://www.fabkzo.com/vr2/) - 360° Tour to show Oudon's sculptures
 
 Contributions and suggestions are very welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
